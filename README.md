@@ -37,10 +37,10 @@
 
 <img src="assets/lovester.png" alt="Lovester App Screenshot" width="300"/>
 <br>
-✅ **Designed system architecture using MERN stack, AWS, GCP & Terraform.**<br>
-✅ **Developed mobile architecture (MVVM, DI, Inversion of Control) with real-time data streaming via Socket.io & MongoDB micro-batch processing.**<br>
-✅ Led a team of 6 Flutter developers, implementing wireframes with **advanced animations & custom navigation transitions**.<br>
-✅ **Designed & executed unit/widget testing scenarios**, ensuring app stability.<br>
+✅ <b>Designed system architecture using MERN stack, AWS, GCP & Terraform.</b><br>
+✅ <b>Developed mobile architecture (MVVM, DI, Inversion of Control) with real-time data streaming via Socket.io & MongoDB micro-batch processing.</b><br>
+✅ Led a team of 6 Flutter developers, implementing wireframes with **advanced animations & custom navigation transitions</b>.<br>
+✅ <b>Designed & executed unit/widget testing scenarios</b>, ensuring app stability.<br>
 
 ---
 
@@ -51,9 +51,9 @@
 
 <img src="assets/aohva.png" alt="Aohva App Screenshot" width="300"/>
 <br>
-✅ **Developed an offline Flutter app** for off-highway maintenance & asset creation.<br>
-✅ **Integrated OpenStreetView for GIS-based trail mapping & navigation**.<br>
-✅ **Optimized data querying using GraphQL & Spatial SQL** for high-performance offline processing.<br>
+✅ <b>Developed an offline Flutter app</b> for off-highway maintenance & asset creation.<br>
+✅ <b>Integrated OpenStreetView for GIS-based trail mapping & navigation**.<br>
+✅ <b>Optimized data querying using GraphQL & Spatial SQL</b> for high-performance offline processing.<br>
 
 ## 📌 **Other Notable Apps**  
 | **App Name**  | **Industry**  | **Tech Stack**  | **Links**  |  
