@@ -36,6 +36,7 @@
 🔗 **Links:** (Private – [Request Access for Demo](https://drive.google.com/file/d/1TyIlsRDFzMESUA8WOEa-bif9-m5fCCmY/view?usp=sharing))
 
 <img src="assets/lovester.png" alt="Lovester App Screenshot" width="300"/>
+<br><br>
 
 ✅ **Designed system architecture using MERN stack, AWS, GCP & Terraform.**
 ✅ **Developed mobile architecture (MVVM, DI, Inversion of Control) with real-time data streaming via Socket.io & MongoDB micro-batch processing.**
@@ -50,6 +51,7 @@
 🎥 **Demo Video:** 🔗 [Route recording feature](https://vimeo.com/1016849583) | [Maintenance route feature](https://vimeo.com/1016849660)
 
 <img src="assets/aohva.png" alt="Aohva App Screenshot" width="300"/>
+<br><br>
 
 ✅ **Developed an offline Flutter app** for off-highway maintenance & asset creation.
 ✅ **Integrated OpenStreetView for GIS-based trail mapping & navigation**.
