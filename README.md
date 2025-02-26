@@ -36,7 +36,7 @@
 🔗 **Links:** (Private – [Request Access for Demo](https://drive.google.com/file/d/1TyIlsRDFzMESUA8WOEa-bif9-m5fCCmY/view?usp=sharing))<br>
 
 <img src="assets/lovester.png" alt="Lovester App Screenshot" width="300"/>
-<br><br>
+<br>
 
 ✅ **Designed system architecture using MERN stack, AWS, GCP & Terraform.**<br>
 ✅ **Developed mobile architecture (MVVM, DI, Inversion of Control) with real-time data streaming via Socket.io & MongoDB micro-batch processing.**<br>
@@ -46,16 +46,16 @@
 ---
 
 ### 4️⃣ **AOHVA Trail Toolbox** *(GIS-Based Trail Mapping)*
-📱 **Tech:** Flutter, OpenStreetView, GraphQL, Spatial SQL
-🔗 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.df.aohva) | [App Store](https://apps.apple.com/ca/app/aohva/id6472849992?platform=iphone)
-🎥 **Demo Video:** 🔗 [Route recording feature](https://vimeo.com/1016849583) | [Maintenance route feature](https://vimeo.com/1016849660)
+📱 **Tech:** Flutter, OpenStreetView, GraphQL, Spatial SQL<br>
+🔗 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.df.aohva) | [App Store](https://apps.apple.com/ca/app/aohva/id6472849992?platform=iphone)<br>
+🎥 **Demo Video:** 🔗 [Route recording feature](https://vimeo.com/1016849583) | [Maintenance route feature](https://vimeo.com/1016849660)<br>
 
 <img src="assets/aohva.png" alt="Aohva App Screenshot" width="300"/>
-<br><br>
+<br>
 
-✅ **Developed an offline Flutter app** for off-highway maintenance & asset creation.
-✅ **Integrated OpenStreetView for GIS-based trail mapping & navigation**.
-✅ **Optimized data querying using GraphQL & Spatial SQL** for high-performance offline processing.
+✅ **Developed an offline Flutter app** for off-highway maintenance & asset creation.<br>
+✅ **Integrated OpenStreetView for GIS-based trail mapping & navigation**.<br>
+✅ **Optimized data querying using GraphQL & Spatial SQL** for high-performance offline processing.<br>
 
 ## 📌 **Other Notable Apps**  
 | **App Name**  | **Industry**  | **Tech Stack**  | **Links**  |  
