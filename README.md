@@ -32,16 +32,16 @@
 ---
 
 ### 3️⃣ **Lovester** *(AI-Powered Dating & Matchmaking – Private Project)*
-📱 **Tech:** Flutter, Riverpod, Firebase, Custom Animations
-🔗 **Links:** (Private – [Request Access for Demo](https://drive.google.com/file/d/1TyIlsRDFzMESUA8WOEa-bif9-m5fCCmY/view?usp=sharing))
+📱 **Tech:** Flutter, Riverpod, Firebase, Custom Animations<br>
+🔗 **Links:** (Private – [Request Access for Demo](https://drive.google.com/file/d/1TyIlsRDFzMESUA8WOEa-bif9-m5fCCmY/view?usp=sharing))<br>
 
 <img src="assets/lovester.png" alt="Lovester App Screenshot" width="300"/>
 <br><br>
 
-✅ **Designed system architecture using MERN stack, AWS, GCP & Terraform.**
-✅ **Developed mobile architecture (MVVM, DI, Inversion of Control) with real-time data streaming via Socket.io & MongoDB micro-batch processing.**
-✅ Led a team of 6 Flutter developers, implementing wireframes with **advanced animations & custom navigation transitions**.
-✅ **Designed & executed unit/widget testing scenarios**, ensuring app stability.
+✅ **Designed system architecture using MERN stack, AWS, GCP & Terraform.**<br>
+✅ **Developed mobile architecture (MVVM, DI, Inversion of Control) with real-time data streaming via Socket.io & MongoDB micro-batch processing.**<br>
+✅ Led a team of 6 Flutter developers, implementing wireframes with **advanced animations & custom navigation transitions**.<br>
+✅ **Designed & executed unit/widget testing scenarios**, ensuring app stability.<br>
 
 ---
 
