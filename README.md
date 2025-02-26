@@ -52,7 +52,7 @@
 <img src="assets/aohva.png" alt="Aohva App Screenshot" width="300"/>
 <br>
 ✅ <b>Developed an offline Flutter app</b> for off-highway maintenance & asset creation.<br>
-✅ <b>Integrated OpenStreetView for GIS-based trail mapping & navigation**.<br>
+✅ <b>Integrated OpenStreetView for GIS-based trail mapping & navigation</b>.<br>
 ✅ <b>Optimized data querying using GraphQL & Spatial SQL</b> for high-performance offline processing.<br>
 
 ## 📌 **Other Notable Apps**  
