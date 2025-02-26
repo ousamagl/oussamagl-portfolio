@@ -39,7 +39,7 @@
 <br>
 ✅ <b>Designed system architecture using MERN stack, AWS, GCP & Terraform.</b><br>
 ✅ <b>Developed mobile architecture (MVVM, DI, Inversion of Control) with real-time data streaming via Socket.io & MongoDB micro-batch processing.</b><br>
-✅ Led a team of 6 Flutter developers, implementing wireframes with **advanced animations & custom navigation transitions</b>.<br>
+✅ Led a team of 6 Flutter developers, implementing wireframes with </b>advanced animations & custom navigation transitions</b>.<br>
 ✅ <b>Designed & executed unit/widget testing scenarios</b>, ensuring app stability.<br>
 
 ---
