@@ -14,6 +14,7 @@
 ### **1️⃣ Nestlé Goodnes App** *(Enterprise Health & Nutrition Platform)*  
 📱 **Tech:** Flutter, Isar DB, BloC, Fastlane, Firebase, GitHub Actions  
 🔗 **Links:** *(Private Project – Not Yet Published)*  
+
 ✅ **Built scalable feature-first architecture with DI (BloC pattern)**  
 ✅ **Developed offline-first data sync system using Isar DB**  
 ✅ **Automated CI/CD workflows** for app distribution & monitoring  
@@ -32,10 +33,11 @@
 
 ### 3️⃣ **Lovester** *(AI-Powered Dating & Matchmaking – Private Project)*
 📱 **Tech:** Flutter, Riverpod, Firebase, Custom Animations
-🔗 **Links:** (Private – [Request Access for Demo]())
-🎥 **Demo Video:** 🔗 Watch Here (Private Link – [Request Access](https://drive.google.com/file/d/1TyIlsRDFzMESUA8WOEa-bif9-m5fCCmY/view?usp=sharing))
+🔗 **Links:** (Private – [Request Access for Demo](https://drive.google.com/file/d/1TyIlsRDFzMESUA8WOEa-bif9-m5fCCmY/view?usp=sharing))
 
-<img src="assets/lovester.png" alt="Lovester App Screenshot" width="500"/>
+<div align="center">
+    <img src="assets/lovester.png" alt="Lovester App Screenshot" width="300"/>
+</div>
 
 ✅ **Designed system architecture using MERN stack, AWS, GCP & Terraform.**
 ✅ Developed mobile architecture **(MVVM, DI, Inversion of Control)** with **real-time data streaming via Socket.io & MongoDB micro-batch processing**.
@@ -49,7 +51,9 @@
 🔗 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.df.aohva) | [App Store](https://apps.apple.com/ca/app/aohva/id6472849992?platform=iphone)
 🎥 **Demo Video:** 🔗 [Route recording feature](https://vimeo.com/1016849583) | [Maintenance route feature](https://vimeo.com/1016849660)
 
-<img src="assets/aohva.png" alt="Aohva App Screenshot" width="500"/>
+<div align="center">
+    <img src="assets/aohva.png" alt="Aohva App Screenshot" width="300"/>
+</div>
 
 ✅ Developed an **offline Flutter app** for off-highway maintenance & asset creation.
 ✅ Integrated **OpenStreetView for GIS-based trail mapping & navigation**.
@@ -59,7 +63,7 @@
 | **App Name**  | **Industry**  | **Tech Stack**  | **Links**  |  
 |--------------|-------------|---------------|-----------|  
 | Ongohub (Campaign management) | Task Management, AI/ML | Flutter, Google Image Recognition, ML Toolkit, Image Processing | [Play Store](https://play.google.com/store/apps/details?id=com.df.ongo) |  
-| Firenet (Wildfire Monitoring) | GIS, Emergency | Flutter, Kotlin, Socket.io | [Play Store](https://play.google.com/store/apps/details?id=com.df.aohva) |  
+| Firenet (Wildfire Monitoring) | GIS, Emergency | Flutter, Kotlin, Socket.io | [App Store](https://apps.apple.com/us/app/alberta-forestry-firenet/id6447320132?platform=iphone) |  
 | Umay (BLE Cryo-Thermal Controller) | IoT, Medical | Flutter, Swift, Nordic-DFU - BLE | [Website](https://umay.rest/pages/discover-umay-rest) |  
 
 
