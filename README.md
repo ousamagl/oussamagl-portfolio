@@ -5,7 +5,7 @@
 🔹 Built **20+ apps**, leading teams and delivering enterprise-grade solutions  
 
 📍 **Currently:** Senior Flutter Engineer @ AKQA Leap  
-📬 [Email](mailto:oussama.galmami@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/oussama-galmami) | 🖥 [GitHub](https://github.com/ousamagl)  
+📬 [Email](mailto:oussama.galmami@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/oussama-galmami-769a20108/) | 🖥 [GitHub](https://github.com/ousamagl)  
 
 ---
 
