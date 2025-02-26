@@ -61,7 +61,7 @@
 | Ongohub (Campaign management) | Task Management, AI/ML | Flutter, Google Image Recognition, ML Toolkit, Image Processing | [Play Store](https://play.google.com/store/apps/details?id=com.df.ongo) |  
 | Firenet (Wildfire Monitoring) | GIS, Emergency | Flutter, Kotlin, Socket.io | [App Store](https://apps.apple.com/us/app/alberta-forestry-firenet/id6447320132?platform=iphone) |  
 | Umay (BLE Cryo-Thermal Controller) | IoT, Medical | Flutter, Swift, Nordic-DFU - BLE | [Website](https://umay.rest/pages/discover-umay-rest) |  
-
+| Tail Blazers (Pet Nutrition & Vet Finder) | Pet Care | Flutter, GraphQL, Riverpod, Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.tailblazerspets) |  
 
 ---
 
