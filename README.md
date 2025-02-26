@@ -34,7 +34,7 @@
 📱 **Tech:** Flutter, Riverpod, Firebase, Custom Animations
 🔗 **Links:** (Private – [Request Access for Demo]())
 🎥 **Demo Video:** 🔗 Watch Here (Private Link – [Request Access](https://drive.google.com/file/d/1TyIlsRDFzMESUA8WOEa-bif9-m5fCCmY/view?usp=sharing))
-![Lovester App Screenshot](assets/lovester.png) 
+<img src="assets/lovester.png" alt="Lovester App Screenshot" width="500"/>
 
 ✅ **Designed system architecture using MERN stack, AWS, GCP & Terraform.**
 ✅ Developed mobile architecture **(MVVM, DI, Inversion of Control)** with **real-time data streaming via Socket.io & MongoDB micro-batch processing**.
@@ -46,8 +46,8 @@
 ### 4️⃣ **AOHVA Trail Toolbox** *(GIS-Based Trail Mapping)*
 📱 **Tech:** Flutter, OpenStreetView, GraphQL, Spatial SQL
 🔗 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.df.aohva) | [App Store](https://apps.apple.com/ca/app/aohva/id6472849992?platform=iphone)
-![AOHVA App Screenshot](assets/aohva.png) 
 🎥 **Demo Video:** 🔗 [Route recording feature](https://vimeo.com/1016849583) | [Maintenance route feature](https://vimeo.com/1016849660)
+<img src="assets/aohva.png" alt="Aohva App Screenshot" width="500"/>
 
 ✅ Developed an **offline Flutter app** for off-highway maintenance & asset creation.
 ✅ Integrated **OpenStreetView for GIS-based trail mapping & navigation**.
